@@ -6,5 +6,5 @@ First game in Python 3.7 & Pygame 1.9.4.
 
 You can install all the libraries from the requirements.txt file by using this line of code:
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
